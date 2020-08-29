@@ -9,10 +9,11 @@ so, download the software to make a animation of you content or can be used in p
 G-DRIVE download link:- 
 [Videoscribe9.0](https://drive.google.com/file/d/1gMFWstFNZs0fweZcKwXRmR36vwqZkVNp/view?usp=sharing) <br>
 
-☄☄☄ Please make sure you unzip the file and see the tutorial how to install it !!!<hr>
+☄☄☄ Please make sure you unzip the file and see the tutorial how to install it !!!
 
-🚩after installing this soft. if you face whiteboard error then follow this path>>> <br>
-<b>⟿</b>C:\Users\MY Pc\AppData\Roaming\VideoScribeDesktop\Local Store\Library\Caches<br>
+🚩after installing this soft. if you face whiteboard error then follow this path>>><br>
+
+⟿ C:\Users\MY Pc\AppData\Roaming\VideoScribeDesktop\Local Store\Library\Caches<br>
 ✂✂✂ DELETE ALL CACHES FILE......<br>
 ....Happy animating
 

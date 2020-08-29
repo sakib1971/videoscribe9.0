@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+## Welcome Cheif,
 
-You can use the [editor on GitHub](https://github.com/sakib1971/premium-account/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+![Image](https://super-monitoring.com/blog/wp-content/uploads/2017/07/videoscribe.png)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+Ajke jei software ta nite chacces seta holo videoscribe9.0 , jetake white board animation er Boss bola hoy ♚<br>
+so, download the software to make a animation of you content or can be used in presantation.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+G-DRIVE download link:- 
+[Videoscribe9.0](https://drive.google.com/file/d/1gMFWstFNZs0fweZcKwXRmR36vwqZkVNp/view?usp=sharing) <br>
 
-```markdown
-Syntax highlighted code block
+☄☄☄ Please make sure you unzip the file and see the tutorial how to install it !!!<br>
 
-# Header 1
-## Header 2
-### Header 3
+🚩after installing this soft. if you face whiteboard error then follow this path>>> <br>
+<b>⟿</b>C:\Users\MY Pc\AppData\Roaming\VideoScribeDesktop\Local Store\Library\Caches<br>
+✂✂✂ DELETE ALL CACHES FILE......<br>
+....Happy animating
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sakib1971/premium-account/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Having trouble with link? <br>
+Want a software ??<br>
+send email :- minhajsakib1917@gmail<br>
+I’ll help you sort it out.
